@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'apsvc'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0B0226FC6A424A57B87D73C2E4D0ADFD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FA73F1EC10614FE798806DA36DCBFAEA }}
           package: .
